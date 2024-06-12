@@ -9,7 +9,7 @@ wo ich mich mit modernsten Technologien beschäftige.
 - **React**: Benutzerfreundliche Oberflächen mit modernen Frontend-Techniken.
 - **REST**: API-Design und -Integration.
 - **MongoDB**: Verwaltung von NoSQL-Datenbanken.
-- **JavaScript**: Dynamische Interaktionen und moderne Web-Features.
+- **JavaScript/TypeScript**: Dynamische Interaktionen und moderne Web-Features.
 - **Git/GitHub**: Versionskontrolle und kollaborative Entwicklung.
 
 ## Tech Stack
